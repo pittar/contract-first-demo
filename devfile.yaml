@@ -3,9 +3,9 @@ metadata:
 projects:
   - name: fuse-openapi-to-java
     source:
-      location: 'https://github.com/pittar-workshops/fuse7-lab-openapi-to-java.git'
+      location: 'https://github.com/pittar/contract-first-demo.git'
       type: 'git'
-      branch: main
+      branch: master
 components:
   - id: redhat/java8/latest
     type: chePlugin
